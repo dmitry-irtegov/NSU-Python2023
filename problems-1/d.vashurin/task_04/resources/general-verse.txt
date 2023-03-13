@@ -1,0 +1,4 @@
+{now} green bottles hanging on the wall,
+{now} green bottles hanging on the wall,
+And if one green bottle should accidentally fall,
+There’ll be {next} green bottle{ending} hanging on the wall.
